@@ -23,8 +23,8 @@ const users = [
 const siteConfig = {
   title: 'Initiable', // Title for your website.
   tagline: 'Seamless Integration of Machine Learning and Artificial Intelligence for Your Business',
-  url: 'https://docs.initiable.com', // Your website URL
-  baseUrl: '/', // Base URL for your project */
+  url: 'https://initiable.com', // Your website URL
+  baseUrl: '/docs/', // Base URL for your project */
   // For github.io type URLs, you would set the url and baseUrl like:
   //   url: 'https://facebook.github.io',
   //   baseUrl: '/test-site/',
