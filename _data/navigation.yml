@@ -1,0 +1,20 @@
+# main links
+main:
+  - title: "Home"
+    url: /
+  - title: "Portfolio"
+    url: /portfolio
+  - title: "Services"
+    url: /services
+  - title: "Blog"
+    url: /blog/
+  - title: "Testimonials"
+    url: /testimonials
+  - title: "About"
+    url: /about
+  - title: "Contact"
+    url: /contact
+  - title: "Terms and Conditions"
+    url: /terms-and-conditions
+  - title: "Privacy Policy"
+    url: /privacy-policy
